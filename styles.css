@@ -1,0 +1,27 @@
+/* styles.css */
+.body {
+    background-image: url("https://img.freepik.com/free-photo/beach-sea_74190-2371.jpg?w=900&t=st=1686813745~exp=1686814345~hmac=0f5ba2d88ea9376e8e6b4b1adbdd5f0aeeaefc4ba09dc1682d4b60b9228ad3de");
+  height:100vh;
+  background-size: cover;
+  text-align: center ;
+}
+  .card {
+    text-align:center ;
+    background-color:#ffffffe7;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    padding: 5px;
+    
+  }
+  .jin{
+    height: 36px;
+    width: 150px;
+    background-color: #54b4f4e7;
+    color: white;
+    border-top-left-radius:  25px;
+    border-bottom-right-radius: 25px;
+    border-width: 0px;
+
+  }
+  
+  
